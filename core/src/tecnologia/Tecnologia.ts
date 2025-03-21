@@ -2,6 +2,6 @@ export default interface Tecnologia {
   id: number;
   nome: string;
   descricao: string;
-  image: string;
+  imagem: string;
   destaque: boolean;
 }
